@@ -6,4 +6,6 @@ Meu nome é Brenda Gory
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- ### Você pode entrar em contato comigo :mailbox
+- ### Você pode entrar em contato comigo 📫
+00001096152794sp@sp.al.educacao.sp.gov.br
+@brendagory
